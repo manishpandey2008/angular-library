@@ -1,0 +1,3 @@
+=> ng serve magic-string-example
+=> ng build magic-string
+=> ng g c navigation-module/test-component --project=magic-string
