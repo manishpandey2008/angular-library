@@ -12,7 +12,8 @@ import { TestComponentComponent } from './components/test-component/test-compone
   imports: [
   ],
   exports: [
-    MagicStringComponent
+    MagicStringComponent,
+    TestComponentComponent
   ]
 })
 export class MagicStringModule { }
